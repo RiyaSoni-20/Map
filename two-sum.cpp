@@ -17,5 +17,5 @@ class Solution
         }
         return ans;
     }
-}
+};
 //https://leetcode.com/problems/two-sum/submissions/1596213545/
